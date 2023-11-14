@@ -2,11 +2,7 @@
 
  ---
 
-Mark Elliott, PhD               
-Senior Research Investigator   
-Department of Radiology        
-University of Pennsylvania      
-Philadelphia, PA  USA        
+   
 
 
 <!--
