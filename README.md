@@ -1,4 +1,13 @@
-### This is the main page of Mark A. Elliott, PhD.
+ This is the main page of Mark A. Elliott, PhD.
+
+ ---
+
+Mark Elliott, PhD               
+Senior Research Investigator   
+Department of Radiology        
+University of Pennsylvania      
+Philadelphia, PA  USA        
+
 
 <!--
 **markymarkymark/markymarkymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
