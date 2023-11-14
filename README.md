@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is the main page of Mark A. Elliott, PhD.
 
 <!--
 **markymarkymark/markymarkymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
